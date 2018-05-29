@@ -1,3 +1,5 @@
+HEADLINE-POPULARITY PREDICTOR
+
 ******GENERAL INSTRUCTIONS AND INFORMATIONS FOR TERMINAL/JUPYTER NOTEBOOK BASED CODE******
 
 The source code includes 'code.py'(can be executed from terminal) file and 'code.ipynb'(Jupyter Notebook file). The required data are kept inside 'dataset' folder which includes following files - 
